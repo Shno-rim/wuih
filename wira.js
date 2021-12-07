@@ -72,7 +72,7 @@ tttawal= ["0️⃣","1️⃣","2️⃣","3️⃣","4️⃣","5️⃣","6️⃣",
 
 const simple = require('./lib/simple.js')
 let errorImg = 'https://i.ibb.co/GR4y4Mq/b3ec6b1bd4c4.jpg'
-let setting = JSON.parse(fs.readFileSync('./setting.json'))
+let setting = JSON.parse(fs.readFileSync('./options.json'))
 banChats = true;
 owner = setting.owner
 ownerNNao = setting.ownerNNao
