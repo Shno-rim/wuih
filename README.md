@@ -9,9 +9,9 @@
 </p>
 <p align="center">
 <a href="https://github.com/Shno-rim/followers"><img title="Followers" src="https://img.shields.io/github/followers/Shno-rim?color=blue&style=flat-square"></a>
-<a href="https://github.com/Shno-rim/wuih/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Shno-rim/Shino?color=blue&style=flat-square"></a>
-<a href="https://github.com/Shno-rim/wuih/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Shno-rim/Shino?color=blue&style=flat-square"></a>
-<a href="https://github.com/Shno-rim/wuih/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Shno-rim/Shino?label=Watchers&color=blue&style=flat-square"></a>
+<a href="https://github.com/Shno-rim/wuih/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Shno-rim/wuih?color=blue&style=flat-square"></a>
+<a href="https://github.com/Shno-rim/wuih/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Shno-rim/wuih?color=blue&style=flat-square"></a>
+<a href="https://github.com/Shno-rim/wuih/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Shno-rim/wuih?label=Watchers&color=blue&style=flat-square"></a>
 </p>
 <p align='center'>
    <a href="https://twitter.com/WiraShn?t=Su5sCAARYQhoeRBLcJkGhA&s=09"><img height="30" src="https://telegra.ph/file/61c739abe39df12574b75.jpg"></a>&nbsp;&nbsp;
