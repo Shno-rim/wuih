@@ -24,7 +24,7 @@
 
 # Install 
 ```
-sudo apt update && apt upgrade
+sudo apt update && sudo apt upgrade
 sudo apt install git -y
 sudo apt install nodejs -y
 sudo apt install ffmpeg -y
