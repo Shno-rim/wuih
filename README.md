@@ -24,11 +24,11 @@
 
 # Install 
 ```
-apt update && apt upgrade
-apt install git -y
-apt install nodejs -y
-apt install ffmpeg -y
-apt install imagemagick -y
+sudo apt update && apt upgrade
+sudo apt install git -y
+sudo apt install nodejs -y
+sudo apt install ffmpeg -y
+sudoapt install imagemagick -y
 ```
 
 # Run bot
