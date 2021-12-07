@@ -112,4 +112,4 @@ sudoapt install imagemagick -y
 >- Jangan Perjual Belikan Script Ini
 >- Tutorial Run Bot Ada Di Atas
 >- Jangan Lupa Update baileys
->- ehe.js Hapus Dulu Sebelum Run Bot
+>- ehe.json Hapus Dulu Sebelum Run Bot
