@@ -38,8 +38,8 @@ apt install imagemagick -y
 
 # Run bot
 ```bash
-- git clone https://github.com/Shno-rim/Shino
-- cd Shino-master
+- git clone https://github.com/Shno-rim/wuih
+- cd wuih
 - npm start
 ```
 
